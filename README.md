@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SansTrucage
+- 👀 I’m interested in gaming development
+- 🌱 I’m currently learning Unreal Engine
+- 💞️ I’m looking to collaborate on learning for myself and others, im new but maybe theres a thing or two i can share
